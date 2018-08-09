@@ -1,0 +1,8 @@
+D:\C# Source Code\SajetConnect\TestSajetConnect\bin\Debug\TestSajetConnect.exe
+D:\C# Source Code\SajetConnect\TestSajetConnect\bin\Debug\TestSajetConnect.pdb
+D:\C# Source Code\SajetConnect\TestSajetConnect\obj\Debug\TestSajetConnect.Form1.resources
+D:\C# Source Code\SajetConnect\TestSajetConnect\obj\Debug\TestSajetConnect.Properties.Resources.resources
+D:\C# Source Code\SajetConnect\TestSajetConnect\obj\Debug\TestSajetConnect.csproj.GenerateResource.Cache
+D:\C# Source Code\SajetConnect\TestSajetConnect\obj\Debug\TestSajetConnect.exe
+D:\C# Source Code\SajetConnect\TestSajetConnect\obj\Debug\TestSajetConnect.pdb
+D:\C# Source Code\SajetConnect\TestSajetConnect\obj\Debug\TestSajetConnect.csprojResolveAssemblyReference.cache

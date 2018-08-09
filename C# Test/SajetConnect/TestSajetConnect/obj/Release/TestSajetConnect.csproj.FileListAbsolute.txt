@@ -1,0 +1,8 @@
+D:\C# Source Code\SajetConnect\TestSajetConnect\bin\Release\TestSajetConnect.exe
+D:\C# Source Code\SajetConnect\TestSajetConnect\bin\Release\TestSajetConnect.pdb
+D:\C# Source Code\SajetConnect\TestSajetConnect\obj\Release\TestSajetConnect.csprojResolveAssemblyReference.cache
+D:\C# Source Code\SajetConnect\TestSajetConnect\obj\Release\TestSajetConnect.Form1.resources
+D:\C# Source Code\SajetConnect\TestSajetConnect\obj\Release\TestSajetConnect.Properties.Resources.resources
+D:\C# Source Code\SajetConnect\TestSajetConnect\obj\Release\TestSajetConnect.csproj.GenerateResource.Cache
+D:\C# Source Code\SajetConnect\TestSajetConnect\obj\Release\TestSajetConnect.exe
+D:\C# Source Code\SajetConnect\TestSajetConnect\obj\Release\TestSajetConnect.pdb

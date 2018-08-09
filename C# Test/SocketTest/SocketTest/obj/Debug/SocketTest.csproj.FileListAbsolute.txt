@@ -1,0 +1,9 @@
+D:\C# Source Code\Test\SocketTest\SocketTest\bin\Debug\SocketTest.exe.config
+D:\C# Source Code\Test\SocketTest\SocketTest\bin\Debug\SocketTest.exe
+D:\C# Source Code\Test\SocketTest\SocketTest\bin\Debug\SocketTest.pdb
+D:\C# Source Code\Test\SocketTest\SocketTest\obj\Debug\SocketTest.csprojResolveAssemblyReference.cache
+D:\C# Source Code\Test\SocketTest\SocketTest\obj\Debug\SocketTest.Properties.Resources.resources
+D:\C# Source Code\Test\SocketTest\SocketTest\obj\Debug\SocketTest.csproj.GenerateResource.Cache
+D:\C# Source Code\Test\SocketTest\SocketTest\obj\Debug\SocketTest.exe
+D:\C# Source Code\Test\SocketTest\SocketTest\obj\Debug\SocketTest.pdb
+D:\C# Source Code\Test\SocketTest\SocketTest\obj\Debug\SocketTest.fSocketServer.resources

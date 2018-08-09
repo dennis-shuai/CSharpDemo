@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Event</title>
+    <link rel="stylesheet" type="text/css" href="Style.css">
+</head>
+<body>
+<div class="div"  onmouseover="onOver(this)" onmouseout="onOut(this)" ></div>
+    <script>
+        function onOver(ooj) {
+            ooj.innerHTML="over";
+        }
+        function onOut(ooj) {
+            ooj.innerHTML="out";
+        }
+    </script>
+    <form>
+        <input type="text" onchange="alert('Hello,context is change')">
+    </form>
+    <script>
+        function changeDemo(bg) {
+            alert("Hello,context is change");
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+D:\C# Source Code\Test\SocketClient\SocketClient\bin\Debug\SocketClient.exe.config
+D:\C# Source Code\Test\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+D:\C# Source Code\Test\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+D:\C# Source Code\Test\SocketClient\SocketClient\obj\Debug\SocketClient.Form1.resources
+D:\C# Source Code\Test\SocketClient\SocketClient\obj\Debug\SocketClient.Properties.Resources.resources
+D:\C# Source Code\Test\SocketClient\SocketClient\obj\Debug\SocketClient.csproj.GenerateResource.Cache
+D:\C# Source Code\Test\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+D:\C# Source Code\Test\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
+D:\C# Source Code\Test\SocketClient\SocketClient\obj\Debug\SocketClient.csprojResolveAssemblyReference.cache

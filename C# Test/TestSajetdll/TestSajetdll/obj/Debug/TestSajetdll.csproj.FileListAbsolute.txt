@@ -1,0 +1,7 @@
+D:\C# Source Code\Test\TestSajetdll\TestSajetdll\bin\Debug\TestSajetdll.dll
+D:\C# Source Code\Test\TestSajetdll\TestSajetdll\bin\Debug\TestSajetdll.pdb
+D:\C# Source Code\Test\TestSajetdll\TestSajetdll\obj\Debug\TestSajetdll.csprojResolveAssemblyReference.cache
+D:\C# Source Code\Test\TestSajetdll\TestSajetdll\obj\Debug\TestSajetdll.dll
+D:\C# Source Code\Test\TestSajetdll\TestSajetdll\obj\Debug\TestSajetdll.pdb
+D:\C# Source Code\Test\TestSajetdll\TestSajetdll\obj\Debug\TestSajetdll.dllForm.resources
+D:\C# Source Code\Test\TestSajetdll\TestSajetdll\obj\Debug\TestSajetdll.csproj.GenerateResource.Cache

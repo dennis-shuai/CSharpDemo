@@ -1,0 +1,5 @@
+D:\C# Source Code\SajetConnect\SajetConnect\bin\Release\SajetConnect.dll
+D:\C# Source Code\SajetConnect\SajetConnect\bin\Release\SajetConnect.pdb
+D:\C# Source Code\SajetConnect\SajetConnect\obj\Release\SajetConnect.dll
+D:\C# Source Code\SajetConnect\SajetConnect\obj\Release\SajetConnect.pdb
+D:\C# Source Code\SajetConnect\SajetConnect\obj\Release\SajetConnect.csprojResolveAssemblyReference.cache

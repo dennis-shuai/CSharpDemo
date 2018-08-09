@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <div>
+        <button id="btn1">button</button>
+        <a id="aid" href="www.baidu.com">baidu</a>
+    </div>
+<script>
+    var btn1 = document.getElementById("btn1");
+  /*  btn1.onclick = function (ev) {
+        alert("hello,DOM 0 Level Event process program处理程序1")
+    }
+    btn1.onclick = function (ev) {
+        alert("hello,DOM 0 Level Event process program处理程序2")
+    }*/
+   // btn1.onclick =null;
+  /* btn1.addEventListener("click",demo1);
+   btn1.addEventListener("click",demo2);
+    btn1.addEventListener("click",demo3);
+   function demo1() {
+      alert("hello,DOM 2 Level Event process program处理程序1");
+   }
+    function demo2() {
+        alert("hello,DOM 2 Level Event process program处理程序2");
+    }
+    function demo3() {
+        alert("hello,DOM 2 Level Event process program处理程序3");
+    }
+    btn1.removeEventListener("click",demo2);*/
+     var div=document.getElementById("div");
+     btn1.addEventListener("click",demo);
+     div.addEventListener("click",showdiv);
+     var aid=document.getElementById("aid");
+     aid.addEventListener("click",showA);
+   /*  if (btn1.addEventListener){
+     } else if(btn1.attachEvent)
+     {
+         btn1.attachEvent("click",demo);
+     }else{
+         btn1.onclick=demo;
+     }*/
+    function demo(event) {
+        alert(event.target);
+        event.stopPropagation();//阻止時間冒泡
+    }
+    function showdiv(){
+         alert("div");
+    }
+    function showA(event){
+        //alert("A");
+       // event.stopPropagation();
+       // event.preventDefault();
+    }
+
+</script>
+</body>
+</html>

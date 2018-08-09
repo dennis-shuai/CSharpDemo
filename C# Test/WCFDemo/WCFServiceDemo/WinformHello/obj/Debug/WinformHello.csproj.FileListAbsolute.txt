@@ -1,0 +1,12 @@
+D:\C# Source Code\Test\WCFDemo\WCFServiceDemo\WinformHello\bin\Debug\WinformHello.exe.config
+D:\C# Source Code\Test\WCFDemo\WCFServiceDemo\WinformHello\obj\Debug\WinformHello.csproj.ResolveComReference.cache
+D:\C# Source Code\Test\WCFDemo\WCFServiceDemo\WinformHello\bin\Debug\WinformHello.exe
+D:\C# Source Code\Test\WCFDemo\WCFServiceDemo\WinformHello\bin\Debug\WinformHello.pdb
+D:\C# Source Code\Test\WCFDemo\WCFServiceDemo\WinformHello\bin\Debug\WCFServiceDemo.dll
+D:\C# Source Code\Test\WCFDemo\WCFServiceDemo\WinformHello\bin\Debug\WCFServiceDemo.pdb
+D:\C# Source Code\Test\WCFDemo\WCFServiceDemo\WinformHello\obj\Debug\WinformHello.csprojResolveAssemblyReference.cache
+D:\C# Source Code\Test\WCFDemo\WCFServiceDemo\WinformHello\obj\Debug\WinformHello.Form1.resources
+D:\C# Source Code\Test\WCFDemo\WCFServiceDemo\WinformHello\obj\Debug\WinformHello.Properties.Resources.resources
+D:\C# Source Code\Test\WCFDemo\WCFServiceDemo\WinformHello\obj\Debug\WinformHello.csproj.GenerateResource.Cache
+D:\C# Source Code\Test\WCFDemo\WCFServiceDemo\WinformHello\obj\Debug\WinformHello.exe
+D:\C# Source Code\Test\WCFDemo\WCFServiceDemo\WinformHello\obj\Debug\WinformHello.pdb

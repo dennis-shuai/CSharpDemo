@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ThrowExcept</title>
+</head>
+<body>
+   <form>
+       <input id="txt" type="text" >
+       <input id="btn" type="button" onclick="demo()" value="按鈕" >
+   </form>
+    <script>
+        function demo()
+        {
+            try{
+                var e=document.getElementById("txt").value;
+                if( e=="")
+                {
+                    throw "請輸入";
+                }
+            }catch (err) {
+                alert(err);
+            }
+        }
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,5 @@
+D:\C# Source Code\Test\WebService\WebHelloService\WebHelloService\bin\WebHelloService.dll.config
+D:\C# Source Code\Test\WebService\WebHelloService\WebHelloService\bin\WebHelloService.dll
+D:\C# Source Code\Test\WebService\WebHelloService\WebHelloService\bin\WebHelloService.pdb
+D:\C# Source Code\Test\WebService\WebHelloService\WebHelloService\obj\Release\WebHelloService.dll
+D:\C# Source Code\Test\WebService\WebHelloService\WebHelloService\obj\Release\WebHelloService.pdb

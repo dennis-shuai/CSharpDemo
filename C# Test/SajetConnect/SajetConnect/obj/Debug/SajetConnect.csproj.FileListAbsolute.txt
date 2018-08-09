@@ -1,0 +1,4 @@
+D:\C# Source Code\SajetConnect\SajetConnect\bin\Debug\SajetConnect.dll
+D:\C# Source Code\SajetConnect\SajetConnect\bin\Debug\SajetConnect.pdb
+D:\C# Source Code\SajetConnect\SajetConnect\obj\Debug\SajetConnect.dll
+D:\C# Source Code\SajetConnect\SajetConnect\obj\Debug\SajetConnect.pdb

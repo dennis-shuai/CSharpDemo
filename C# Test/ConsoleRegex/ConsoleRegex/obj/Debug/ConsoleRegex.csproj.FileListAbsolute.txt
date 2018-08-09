@@ -1,0 +1,6 @@
+D:\C# Source Code\Test\ConsoleRegex\ConsoleRegex\bin\Debug\ConsoleRegex.exe.config
+D:\C# Source Code\Test\ConsoleRegex\ConsoleRegex\bin\Debug\ConsoleRegex.exe
+D:\C# Source Code\Test\ConsoleRegex\ConsoleRegex\bin\Debug\ConsoleRegex.pdb
+D:\C# Source Code\Test\ConsoleRegex\ConsoleRegex\obj\Debug\ConsoleRegex.csprojResolveAssemblyReference.cache
+D:\C# Source Code\Test\ConsoleRegex\ConsoleRegex\obj\Debug\ConsoleRegex.exe
+D:\C# Source Code\Test\ConsoleRegex\ConsoleRegex\obj\Debug\ConsoleRegex.pdb

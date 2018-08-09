@@ -1,0 +1,6 @@
+D:\C# Source Code\Test\ConsoleEvent\ConsoleEvent\bin\Debug\ConsoleEvent.exe.config
+D:\C# Source Code\Test\ConsoleEvent\ConsoleEvent\bin\Debug\ConsoleEvent.exe
+D:\C# Source Code\Test\ConsoleEvent\ConsoleEvent\bin\Debug\ConsoleEvent.pdb
+D:\C# Source Code\Test\ConsoleEvent\ConsoleEvent\obj\Debug\ConsoleEvent.csprojResolveAssemblyReference.cache
+D:\C# Source Code\Test\ConsoleEvent\ConsoleEvent\obj\Debug\ConsoleEvent.exe
+D:\C# Source Code\Test\ConsoleEvent\ConsoleEvent\obj\Debug\ConsoleEvent.pdb

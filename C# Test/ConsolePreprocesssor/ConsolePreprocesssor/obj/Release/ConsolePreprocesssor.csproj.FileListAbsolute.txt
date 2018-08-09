@@ -1,0 +1,6 @@
+D:\C# Source Code\Test\ConsolePreprocesssor\ConsolePreprocesssor\bin\Release\ConsolePreprocesssor.exe.config
+D:\C# Source Code\Test\ConsolePreprocesssor\ConsolePreprocesssor\bin\Release\ConsolePreprocesssor.exe
+D:\C# Source Code\Test\ConsolePreprocesssor\ConsolePreprocesssor\bin\Release\ConsolePreprocesssor.pdb
+D:\C# Source Code\Test\ConsolePreprocesssor\ConsolePreprocesssor\obj\Release\ConsolePreprocesssor.exe
+D:\C# Source Code\Test\ConsolePreprocesssor\ConsolePreprocesssor\obj\Release\ConsolePreprocesssor.pdb
+D:\C# Source Code\Test\ConsolePreprocesssor\ConsolePreprocesssor\obj\Release\ConsolePreprocesssor.csprojResolveAssemblyReference.cache

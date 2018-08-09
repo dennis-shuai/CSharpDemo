@@ -1,0 +1,6 @@
+D:\C# Source Code\Test\WebService\WebHelloClient\WebHelloClient\bin\WebHelloClient.dll.config
+D:\C# Source Code\Test\WebService\WebHelloClient\WebHelloClient\bin\WebHelloClient.dll
+D:\C# Source Code\Test\WebService\WebHelloClient\WebHelloClient\bin\WebHelloClient.pdb
+D:\C# Source Code\Test\WebService\WebHelloClient\WebHelloClient\obj\Debug\WebHelloClient.csprojResolveAssemblyReference.cache
+D:\C# Source Code\Test\WebService\WebHelloClient\WebHelloClient\obj\Debug\WebHelloClient.dll
+D:\C# Source Code\Test\WebService\WebHelloClient\WebHelloClient\obj\Debug\WebHelloClient.pdb

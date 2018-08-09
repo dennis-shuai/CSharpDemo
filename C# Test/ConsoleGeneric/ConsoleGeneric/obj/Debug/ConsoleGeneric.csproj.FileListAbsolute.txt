@@ -1,0 +1,6 @@
+D:\C# Source Code\Test\ConsoleGeneric\ConsoleGeneric\bin\Debug\ConsoleGeneric.exe.config
+D:\C# Source Code\Test\ConsoleGeneric\ConsoleGeneric\obj\Debug\ConsoleGeneric.csprojResolveAssemblyReference.cache
+D:\C# Source Code\Test\ConsoleGeneric\ConsoleGeneric\bin\Debug\ConsoleGeneric.exe
+D:\C# Source Code\Test\ConsoleGeneric\ConsoleGeneric\bin\Debug\ConsoleGeneric.pdb
+D:\C# Source Code\Test\ConsoleGeneric\ConsoleGeneric\obj\Debug\ConsoleGeneric.exe
+D:\C# Source Code\Test\ConsoleGeneric\ConsoleGeneric\obj\Debug\ConsoleGeneric.pdb

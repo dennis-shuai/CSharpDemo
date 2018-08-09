@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketClient", "SocketClient\SocketClient.csproj", "{AFEE4938-2337-4C0D-BF15-25C36C59AA54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWPF", "TestWPF\TestWPF.csproj", "{28810F0B-EE58-4026-B220-C4E3D4C55521}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFEE4938-2337-4C0D-BF15-25C36C59AA54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFEE4938-2337-4C0D-BF15-25C36C59AA54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFEE4938-2337-4C0D-BF15-25C36C59AA54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFEE4938-2337-4C0D-BF15-25C36C59AA54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28810F0B-EE58-4026-B220-C4E3D4C55521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28810F0B-EE58-4026-B220-C4E3D4C55521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28810F0B-EE58-4026-B220-C4E3D4C55521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28810F0B-EE58-4026-B220-C4E3D4C55521}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

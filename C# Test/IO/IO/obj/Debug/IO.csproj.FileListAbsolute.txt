@@ -1,0 +1,6 @@
+D:\C# Source Code\Test\IO\IO\bin\Debug\IO.exe.config
+D:\C# Source Code\Test\IO\IO\bin\Debug\IO.exe
+D:\C# Source Code\Test\IO\IO\bin\Debug\IO.pdb
+D:\C# Source Code\Test\IO\IO\obj\Debug\IO.csprojResolveAssemblyReference.cache
+D:\C# Source Code\Test\IO\IO\obj\Debug\IO.exe
+D:\C# Source Code\Test\IO\IO\obj\Debug\IO.pdb

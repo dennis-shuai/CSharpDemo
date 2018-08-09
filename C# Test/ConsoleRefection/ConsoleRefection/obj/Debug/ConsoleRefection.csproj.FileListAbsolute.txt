@@ -1,0 +1,6 @@
+D:\C# Source Code\Test\ConsoleRefection\ConsoleRefection\bin\Debug\ConsoleRefection.exe.config
+D:\C# Source Code\Test\ConsoleRefection\ConsoleRefection\bin\Debug\ConsoleRefection.exe
+D:\C# Source Code\Test\ConsoleRefection\ConsoleRefection\bin\Debug\ConsoleRefection.pdb
+D:\C# Source Code\Test\ConsoleRefection\ConsoleRefection\obj\Debug\ConsoleRefection.exe
+D:\C# Source Code\Test\ConsoleRefection\ConsoleRefection\obj\Debug\ConsoleRefection.pdb
+D:\C# Source Code\Test\ConsoleRefection\ConsoleRefection\obj\Debug\ConsoleRefection.csprojResolveAssemblyReference.cache

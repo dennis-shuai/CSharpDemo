@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body onload="iStartTime()" >
+    <script>
+       /* people =new Object();
+        people.name ="iwen";
+        people.age =30;
+        document.write("Name:"+people.name);
+
+       //people ={name:"iwen",age:30}
+       //document.write("Name:"+people.name+",Age:"+people.age);
+       var str="Hello World";
+       var i=str.indexOf("Hello");
+       document.write(" Hello at :"+i+"<br />");
+       document.write("uppercase :"+str.toUpperCase()+"<br />");
+       var date=new Date();
+       document.write("Current Date is :"+date+"<br />");
+       document.write("Current Year is :"+date.getFullYear()+"<br />");
+       document.write("Current second is :"+date.getMilliseconds()+"<br />");*/
+    function iStartTime() {
+        var Today = new Date();
+        var h=Today.getHours();
+        var m=Today.getMinutes();
+        var s=Today.getSeconds();
+        h=addZero(h);
+        m=addZero(m);
+        s=addZero(s);
+        document.getElementById("timeTxt").innerHTML = h+":"+m+":"+s;
+        t =setTimeout( function () { iStartTime(); },500);
+    }
+    function addZero(i){
+        if (i<10) {
+            i= "0"+i;
+        }
+        return i;
+    }
+
+    </script>
+    <div id="timeTxt" >122222 </div>
+</body>
+</html>

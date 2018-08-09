@@ -1,0 +1,9 @@
+D:\C# Source Code\Test\Helloword\Helloword\bin\Debug\Helloword.exe.config
+D:\C# Source Code\Test\Helloword\Helloword\bin\Debug\Helloword.exe
+D:\C# Source Code\Test\Helloword\Helloword\bin\Debug\Helloword.pdb
+D:\C# Source Code\Test\Helloword\Helloword\obj\Debug\Helloword.csprojResolveAssemblyReference.cache
+D:\C# Source Code\Test\Helloword\Helloword\obj\Debug\Helloword.Properties.Resources.resources
+D:\C# Source Code\Test\Helloword\Helloword\obj\Debug\Helloword.csproj.GenerateResource.Cache
+D:\C# Source Code\Test\Helloword\Helloword\obj\Debug\Helloword.exe
+D:\C# Source Code\Test\Helloword\Helloword\obj\Debug\Helloword.pdb
+D:\C# Source Code\Test\Helloword\Helloword\obj\Debug\Helloword.Form1.resources

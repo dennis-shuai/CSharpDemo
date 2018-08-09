@@ -1,0 +1,9 @@
+D:\C# Source Code\Test\WindowsFormsTestOracle\WindowsFormsTestOracle\bin\Debug\WindowsFormsTestOracle.exe.config
+D:\C# Source Code\Test\WindowsFormsTestOracle\WindowsFormsTestOracle\bin\Debug\WindowsFormsTestOracle.exe
+D:\C# Source Code\Test\WindowsFormsTestOracle\WindowsFormsTestOracle\bin\Debug\WindowsFormsTestOracle.pdb
+D:\C# Source Code\Test\WindowsFormsTestOracle\WindowsFormsTestOracle\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\C# Source Code\Test\WindowsFormsTestOracle\WindowsFormsTestOracle\obj\Debug\WindowsFormsTestOracle.Form1.resources
+D:\C# Source Code\Test\WindowsFormsTestOracle\WindowsFormsTestOracle\obj\Debug\WindowsFormsTestOracle.Properties.Resources.resources
+D:\C# Source Code\Test\WindowsFormsTestOracle\WindowsFormsTestOracle\obj\Debug\WindowsFormsTestOracle.csproj.GenerateResource.Cache
+D:\C# Source Code\Test\WindowsFormsTestOracle\WindowsFormsTestOracle\obj\Debug\WindowsFormsTestOracle.exe
+D:\C# Source Code\Test\WindowsFormsTestOracle\WindowsFormsTestOracle\obj\Debug\WindowsFormsTestOracle.pdb

@@ -1,0 +1,20 @@
+﻿<Window x:Class="TestWPF.StackPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="StackPanel" Height="190" Width="340">
+    <Grid>
+        <GroupBox Header="請選擇沒有錯別字的成語" BorderBrush="Green" Margin="5">
+            <StackPanel Margin="5">
+                <CheckBox Content="A. 迫不及待"/>
+                <CheckBox Content="B. 首曲一指"/>
+                <CheckBox Content="C. 陳詞濫調"/>
+                <CheckBox Content="D. 唉聲嘆氣"/>
+                <CheckBox Content="E. 不可禮喻"/>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                    <Button Content="清空" Width="60" Margin="5"/>
+                    <Button Content="確定" Width="60" Margin="5"/>
+                </StackPanel>    
+            </StackPanel>
+        </GroupBox>
+    </Grid>
+</Window>

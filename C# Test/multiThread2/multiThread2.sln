@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multiThread2", "multiThread2\multiThread2.csproj", "{EA7EE3DB-C71C-43A0-A6E8-7BFEF7694CAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA7EE3DB-C71C-43A0-A6E8-7BFEF7694CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA7EE3DB-C71C-43A0-A6E8-7BFEF7694CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA7EE3DB-C71C-43A0-A6E8-7BFEF7694CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA7EE3DB-C71C-43A0-A6E8-7BFEF7694CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

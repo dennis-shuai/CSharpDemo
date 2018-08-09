@@ -1,0 +1,6 @@
+D:\C# Source Code\Test\ConsoleDelegate\ConsoleDelegate\bin\Debug\ConsoleDelegate.exe.config
+D:\C# Source Code\Test\ConsoleDelegate\ConsoleDelegate\bin\Debug\ConsoleDelegate.exe
+D:\C# Source Code\Test\ConsoleDelegate\ConsoleDelegate\bin\Debug\ConsoleDelegate.pdb
+D:\C# Source Code\Test\ConsoleDelegate\ConsoleDelegate\obj\Debug\ConsoleDelegate.csprojResolveAssemblyReference.cache
+D:\C# Source Code\Test\ConsoleDelegate\ConsoleDelegate\obj\Debug\ConsoleDelegate.exe
+D:\C# Source Code\Test\ConsoleDelegate\ConsoleDelegate\obj\Debug\ConsoleDelegate.pdb
