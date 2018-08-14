@@ -4,3 +4,6 @@ D:\C# Source Code\Test\ConsoleDelegate\ConsoleDelegate\bin\Debug\ConsoleDelegate
 D:\C# Source Code\Test\ConsoleDelegate\ConsoleDelegate\obj\Debug\ConsoleDelegate.csprojResolveAssemblyReference.cache
 D:\C# Source Code\Test\ConsoleDelegate\ConsoleDelegate\obj\Debug\ConsoleDelegate.exe
 D:\C# Source Code\Test\ConsoleDelegate\ConsoleDelegate\obj\Debug\ConsoleDelegate.pdb
+D:\C# Demo\CSharpDemo\C# Test\ConsoleDelegate\ConsoleDelegate\bin\Debug\ConsoleDelegate.exe.config
+D:\C# Demo\CSharpDemo\C# Test\ConsoleDelegate\ConsoleDelegate\obj\Debug\ConsoleDelegate.exe
+D:\C# Demo\CSharpDemo\C# Test\ConsoleDelegate\ConsoleDelegate\obj\Debug\ConsoleDelegate.pdb

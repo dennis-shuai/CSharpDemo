@@ -1,0 +1,7 @@
+D:\C# Demo\CSharpDemo\C# Test\ConsoleDelegate\ConsoleLINQ\bin\Debug\ConsoleLINQ.exe.config
+D:\C# Demo\CSharpDemo\C# Test\ConsoleDelegate\ConsoleLINQ\obj\Debug\ConsoleLINQ.csprojResolveAssemblyReference.cache
+D:\C# Demo\CSharpDemo\C# Test\ConsoleDelegate\ConsoleLINQ\bin\Debug\ConsoleLINQ.exe
+D:\C# Demo\CSharpDemo\C# Test\ConsoleDelegate\ConsoleLINQ\bin\Debug\ConsoleLINQ.pdb
+D:\C# Demo\CSharpDemo\C# Test\ConsoleDelegate\ConsoleLINQ\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\C# Demo\CSharpDemo\C# Test\ConsoleDelegate\ConsoleLINQ\obj\Debug\ConsoleLINQ.exe
+D:\C# Demo\CSharpDemo\C# Test\ConsoleDelegate\ConsoleLINQ\obj\Debug\ConsoleLINQ.pdb

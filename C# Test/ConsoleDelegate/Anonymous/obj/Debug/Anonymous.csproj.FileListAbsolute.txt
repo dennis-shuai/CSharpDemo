@@ -1,0 +1,6 @@
+D:\C# Demo\CSharpDemo\C# Test\ConsoleDelegate\Anonymous\bin\Debug\Anonymous.exe.config
+D:\C# Demo\CSharpDemo\C# Test\ConsoleDelegate\Anonymous\obj\Debug\Anonymous.csprojResolveAssemblyReference.cache
+D:\C# Demo\CSharpDemo\C# Test\ConsoleDelegate\Anonymous\bin\Debug\Anonymous.exe
+D:\C# Demo\CSharpDemo\C# Test\ConsoleDelegate\Anonymous\bin\Debug\Anonymous.pdb
+D:\C# Demo\CSharpDemo\C# Test\ConsoleDelegate\Anonymous\obj\Debug\Anonymous.exe
+D:\C# Demo\CSharpDemo\C# Test\ConsoleDelegate\Anonymous\obj\Debug\Anonymous.pdb

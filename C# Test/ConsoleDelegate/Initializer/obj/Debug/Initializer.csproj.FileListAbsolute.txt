@@ -1,0 +1,6 @@
+D:\C# Demo\CSharpDemo\C# Test\ConsoleDelegate\Initializer\bin\Debug\Initializer.exe.config
+D:\C# Demo\CSharpDemo\C# Test\ConsoleDelegate\Initializer\bin\Debug\Initializer.exe
+D:\C# Demo\CSharpDemo\C# Test\ConsoleDelegate\Initializer\bin\Debug\Initializer.pdb
+D:\C# Demo\CSharpDemo\C# Test\ConsoleDelegate\Initializer\obj\Debug\Initializer.exe
+D:\C# Demo\CSharpDemo\C# Test\ConsoleDelegate\Initializer\obj\Debug\Initializer.pdb
+D:\C# Demo\CSharpDemo\C# Test\ConsoleDelegate\Initializer\obj\Debug\Initializer.csprojResolveAssemblyReference.cache
