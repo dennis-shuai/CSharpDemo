@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMVC", "WebMVC\WebMVC.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMVC.Tests", "WebMVC.Tests\WebMVC.Tests.csproj", "{18EB202B-5ED6-41AA-8A36-10FE94E05CA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCMSFCDemo4", "..\CCMSFCDemo4\CCMSFCDemo4\CCMSFCDemo4.csproj", "{C1E3482D-1E2D-4369-B73A-ABA3DD0AE035}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{18EB202B-5ED6-41AA-8A36-10FE94E05CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18EB202B-5ED6-41AA-8A36-10FE94E05CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18EB202B-5ED6-41AA-8A36-10FE94E05CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1E3482D-1E2D-4369-B73A-ABA3DD0AE035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1E3482D-1E2D-4369-B73A-ABA3DD0AE035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1E3482D-1E2D-4369-B73A-ABA3DD0AE035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1E3482D-1E2D-4369-B73A-ABA3DD0AE035}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

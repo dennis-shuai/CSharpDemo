@@ -11,7 +11,7 @@ namespace WebMVC.Models
     {
         public int ID { get; set; }
     
-        [StringLength(  30,MinimumLength=6)]
+        [StringLength(30,MinimumLength=6)]
         public string Title {get;set;}
        
         [Display(Name="Release Date")]

@@ -8,8 +8,19 @@ namespace WebMVC
         // 有关绑定的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkId=301862
         public static void RegisterBundles(BundleCollection bundles)
         {
+
+            bundles.Add(new ScriptBundle("~/bundles/moviesScripts").Include(
+                "~/Scripts/jquery-{version}.js" ,
+                "~/Scripts/jquery-ui-{version}.js",
+                "~/Scripts/jquery.validate*",
+                "~/Scripts/modernizr-*",
+                "~/Scripts/respond.js",
+                "~/Scripts/Movies.js",
+                "~/Scripts/textext.*",
+                "~/Scripts/jquery.unobtrusive*"));
+            
             bundles.Add(new ScriptBundle("~/bundles/jquery").Include(
-                        "~/Scripts/jquery-{version}.js"));
+                         "~/Scripts/jquery-{version}.js"));
 
             bundles.Add(new ScriptBundle("~/bundles/jqueryval").Include(
                         "~/Scripts/jquery.validate*"));

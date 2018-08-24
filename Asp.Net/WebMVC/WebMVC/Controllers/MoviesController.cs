@@ -7,6 +7,8 @@ using System.Net;
 using System.Web;
 using System.Web.Mvc;
 using WebMVC.Models;
+using PagedList;
+using PagedList.Mvc;
 
 namespace WebMVC.Controllers
 {
@@ -21,7 +23,26 @@ namespace WebMVC.Controllers
         //}
         //search 
 
-        public ActionResult  Index(string movieGenre,string searchString)
+        public ActionResult AutoComplete(string term)
+        {
+            var model = db.Movies.Where(m => m.Title.StartsWith(term)).Take(10)
+                .Select(m => new 
+                { 
+                    label = m.Title 
+                });
+            return Json(model, JsonRequestBehavior.AllowGet);
+
+        }
+        [ChildActionOnly]
+        [OutputCache(Duration=60)]
+        public ActionResult SayHello()
+        {
+            return Content("hello jkxy");
+        }
+
+        //[OutputCache(Duration=5)]
+        [OutputCache(CacheProfile="Long")]
+        public ActionResult  Index(string movieGenre,string searchString,int page=1)
         {
             var GenreList = new List<string>();
             var GenreQry = from d in db.Movies
@@ -40,7 +61,14 @@ namespace WebMVC.Controllers
             {
                 movies = movies.Where( x=> x.Genre == movieGenre);
             }
-            return View(movies);
+            var movieList = movies.OrderBy(m => m.Title)
+                 .ToPagedList(page, 10);
+            if (Request.IsAjaxRequest())
+            {
+                return PartialView("_Movies", movieList);
+            }
+
+            return View(movieList);
         }
         [HttpPost]
         public string Index(FormCollection fc, string searchstring)
@@ -49,6 +77,7 @@ namespace WebMVC.Controllers
         }
 
         // GET: Movies/Details/5
+        [Authorize(Users="admin")]
         public ActionResult Details(int? id)
         {
             if (id == null)
@@ -73,7 +102,7 @@ namespace WebMVC.Controllers
         // 为了防止“过多发布”攻击，请启用要绑定到的特定属性，有关 
         // 详细信息，请参阅 http://go.microsoft.com/fwlink/?LinkId=317598。
         [HttpPost]
-        [ValidateAntiForgeryToken]
+        //[ValidateAntiForgeryToken]
         public ActionResult Create([Bind(Include = "ID,Title,ReleaseDate,Genre,Price")] Movie movie)
         {
             if (ModelState.IsValid)

@@ -18,7 +18,12 @@ D:\C# Demo\CSharpDemo\Asp.Net\WebMVC\WebMVC\bin\Microsoft.Owin.Security.OAuth.dl
 D:\C# Demo\CSharpDemo\Asp.Net\WebMVC\WebMVC\bin\Microsoft.Owin.Security.Twitter.dll
 D:\C# Demo\CSharpDemo\Asp.Net\WebMVC\WebMVC\bin\Microsoft.Web.Infrastructure.dll
 D:\C# Demo\CSharpDemo\Asp.Net\WebMVC\WebMVC\bin\Newtonsoft.Json.dll
+D:\C# Demo\CSharpDemo\Asp.Net\WebMVC\WebMVC\bin\Oracle.ManagedDataAccess.dll
+D:\C# Demo\CSharpDemo\Asp.Net\WebMVC\WebMVC\bin\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\C# Demo\CSharpDemo\Asp.Net\WebMVC\WebMVC\bin\Oracle.Web.dll
 D:\C# Demo\CSharpDemo\Asp.Net\WebMVC\WebMVC\bin\Owin.dll
+D:\C# Demo\CSharpDemo\Asp.Net\WebMVC\WebMVC\bin\PagedList.dll
+D:\C# Demo\CSharpDemo\Asp.Net\WebMVC\WebMVC\bin\PagedList.Mvc.dll
 D:\C# Demo\CSharpDemo\Asp.Net\WebMVC\WebMVC\bin\System.Web.Helpers.dll
 D:\C# Demo\CSharpDemo\Asp.Net\WebMVC\WebMVC\bin\System.Web.Mvc.dll
 D:\C# Demo\CSharpDemo\Asp.Net\WebMVC\WebMVC\bin\System.Web.Optimization.dll
@@ -27,6 +32,8 @@ D:\C# Demo\CSharpDemo\Asp.Net\WebMVC\WebMVC\bin\System.Web.WebPages.Deployment.d
 D:\C# Demo\CSharpDemo\Asp.Net\WebMVC\WebMVC\bin\System.Web.WebPages.dll
 D:\C# Demo\CSharpDemo\Asp.Net\WebMVC\WebMVC\bin\System.Web.WebPages.Razor.dll
 D:\C# Demo\CSharpDemo\Asp.Net\WebMVC\WebMVC\bin\WebGrease.dll
+D:\C# Demo\CSharpDemo\Asp.Net\WebMVC\WebMVC\bin\PagedList.xml
+D:\C# Demo\CSharpDemo\Asp.Net\WebMVC\WebMVC\bin\PagedList.Mvc.xml
 D:\C# Demo\CSharpDemo\Asp.Net\WebMVC\WebMVC\bin\System.Web.Helpers.xml
 D:\C# Demo\CSharpDemo\Asp.Net\WebMVC\WebMVC\bin\System.Web.Mvc.xml
 D:\C# Demo\CSharpDemo\Asp.Net\WebMVC\WebMVC\bin\System.Web.Optimization.xml

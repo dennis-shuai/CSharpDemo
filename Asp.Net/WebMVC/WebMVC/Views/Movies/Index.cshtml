@@ -1,4 +1,5 @@
-﻿@model IEnumerable<WebMVC.Models.Movie>
+﻿@*@model IEnumerable<WebMVC.Models.Movie>*@
+@model IPagedList<WebMVC.Models.Movie>
 
 @{
     ViewBag.Title = "Index";
@@ -11,53 +12,33 @@
 <p>
     @Html.ActionLink("Create New", "Create")
 
-    @using (Html.BeginForm("Index", "Movies", FormMethod.Get))
+    @*@using (Html.BeginForm("Index", "Movies", FormMethod.Get))
+        {
+        <p>
+            Genre:@Html.DropDownList("movieGenre","Happy")
+            Title:@Html.TextBox("SearchString","113")
+            <input type="submit" value="Search" />
+        </p>
+        }
+    *@
+    @*@using (Ajax.BeginForm(new AjaxOptions
     {
-    <p>
-        Genre:@Html.DropDownList("movieGenre","Happy")
-        Title:@Html.TextBox("SearchString","113")
-        <input type="submit" value="Search" />
-    </p>
-    }
+        HttpMethod = "get",
+        InsertionMode = InsertionMode.Replace,
+        UpdateTargetId = "moviesList"
+    }))
+    {
+        <input type="search" name="SearchString" />
+        <input type="submit" value="Filter" />
+    }*@
+ </p>
+<form method="get" action="@Url.Action("Index")"
+      data-movies-ajax="true" data-movies-target="#moviesList">
+    @*<input type="search" name="SearchString" />*@
+    <input type="search" name="SearchString"   data-movies-autocomplete="@Url.Action("AutoComplete")"/>
+    <input type="submit" value="Filter" />
+   
+</form>
+@Html.Action("SayHello");
 
-</p>
-<table class="table">
-    <tr>
-        <th>
-            @Html.DisplayNameFor(model => model.Title)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.ReleaseDate)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Genre)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Price)
-        </th>
-        <th></th>
-    </tr>
-
-@foreach (var item in Model) {
-    <tr>
-        <td>
-            @Html.DisplayFor(modelItem => item.Title)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.ReleaseDate)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Genre)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Price)
-        </td>
-        <td>
-            @Html.ActionLink("Edit Me", "Edit", new { id=item.ID }) |
-            @Html.ActionLink("Details", "Details", new { id=item.ID }) |
-            @Html.ActionLink("Delete", "Delete", new { id=item.ID })
-        </td>
-    </tr>
-}
-
-</table>
+@Html.Partial("_Movies", Model)

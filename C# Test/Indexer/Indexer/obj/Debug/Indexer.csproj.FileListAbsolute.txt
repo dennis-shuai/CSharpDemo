@@ -4,3 +4,6 @@ D:\C# Source Code\Test\Indexer\Indexer\bin\Debug\Indexer.pdb
 D:\C# Source Code\Test\Indexer\Indexer\obj\Debug\Indexer.csprojResolveAssemblyReference.cache
 D:\C# Source Code\Test\Indexer\Indexer\obj\Debug\Indexer.exe
 D:\C# Source Code\Test\Indexer\Indexer\obj\Debug\Indexer.pdb
+D:\C# Demo\CSharpDemo\C# Test\Indexer\Indexer\bin\Debug\Indexer.exe.config
+D:\C# Demo\CSharpDemo\C# Test\Indexer\Indexer\obj\Debug\Indexer.exe
+D:\C# Demo\CSharpDemo\C# Test\Indexer\Indexer\obj\Debug\Indexer.pdb
